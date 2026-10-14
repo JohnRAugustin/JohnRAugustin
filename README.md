@@ -1,6 +1,6 @@
 <h1>Hi, I'm John A! <br/><a 
 
-<h2>👨‍💻 Network Deployment Projects:</h2>
+<h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
 - 
 <h2>📺 Popular YouTube Videos</h2>
