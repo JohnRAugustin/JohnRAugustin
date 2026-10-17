@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Network Deployments</b>
-  - [Basic Spine Leaf Deployment]((https://github.com/JohnRAugustin/Basic-Spine-Leaf-Fabric-Deployment))
+  - [Basic Spine Leaf Deployment](https://github.com/JohnRAugustin/Basic-Spine-Leaf-Fabric-Deployment)
 - <b>IAM Homelabs (Okta AD Agent, MFA, Entra Cloud Sync, PIM, and JIT Access </b>
   - 
 - <b>PowerShell</b>
