@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Network Deployments</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Basic Spine Leaf Deployment]((https://github.com/JohnRAugustin/Basic-Spine-Leaf-Fabric-Deployment))
 - <b>IAM Homelabs (Okta AD Agent, MFA, Entra Cloud Sync, PIM, and JIT Access </b>
   - 
 - <b>PowerShell</b>
